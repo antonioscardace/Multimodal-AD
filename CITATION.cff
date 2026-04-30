@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Quantitative Analysis of Multimodal Biomarkers in Alzheimer’s Disease"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Scardace"
+    given-names: "Antonio"
+  - family-names: "Ravì"
+    given-names: "Daniele"
+preferred-citation:
+  type: conference-paper
+  title: "A Quantitative Analysis of Multimodal Biomarkers in Alzheimer’s Disease"
+  authors:
+    - family-names: "Scardace"
+      given-names: "Antonio"
+    - family-names: "Ravì"
+      given-names: "Daniele"
+  collection-title: "2026 IEEE Symposium on Computers and Communications (ISCC)"
+  year: 2026
+  start: 1
+  end: 6
+  doi: "10.1109/ISCC70364.2026.11740084"
